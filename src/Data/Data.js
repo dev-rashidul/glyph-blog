@@ -3,100 +3,99 @@
 const data = [
   {
     id: "668282971c3e3da4a72a03aa",
-    title: "React JS",
+    title: "Celebrating the 2023 FIFA Women’s World Cup on Snapchat",
     content:
-      "Become React Developer: React Core, Hooks, APIs, Routing, Context, Reducers, Redux, Firebase, Tailwind, Deployment & More",
+      "We take a look at how Snapchat helps fans follow the 2023 FIFA Women’s World Cup, including a real-time stats tracker, and of course plenty of lenses and stickers.",
     thumbnail:
-      "https://coderstrustbd.com/wp-content/uploads/2021/08/react-js-banner.jpg",
+      "https://assets.arpost.co/wp-content/uploads/2023/07/27121352/Celebrating-the-2023-FIFA-Womens-World-Cup-on-Snapchat-jpg.webp",
     author: "Rashidul Islam",
-    tags: ["React", "Programming", "JavaScript"],
+    tags: ["Augmented Reality", "Tech"],
     createdAt: "21 August 2024",
   },
   {
     id: "668283ea1c3e3da4a72a03bd",
-    title: "Flutter For Mobile App Development",
+    title: "How Virtual Reality Is Revolutionizing Police Training",
     content:
-      "Flutter is a big deal because any developer (or anyone who wants to learn mobile development) can now build native Android and iOS apps with one codebase ONLY! This means, instead of having to learn Objective-C or Swift to build iOS apps, and Java, or Kotlin to build Android apps, you can now use Flutter Mobile Development Framework to build apps that run natively on both iOS and Android devices using the General-purpose Dart Programming Language.",
+      "Virtual reality creates safe and immersive environments that help police officers hone their skills, equipping them with new ways to face high-stress circumstances.",
     thumbnail:
-      "https://computertrainingschoolnigeria.com.ng/wp-content/uploads/2021/08/Flutter-For-Mobile-App-Development-Training-Course-in-Abuja-Nigeria-1.jpg",
+      "https://www.smu.edu/-/media/Site/Meadows/NewsStories/2023/Bisk-SMU-New-Masters-Program/Creative-Technology-girl-wearing-VR-Goggles.png?h=879&iar=0&w=1500&hash=0058A9ED13C0ED8DAD18774891EB8D19",
     author: "Rashidul Islam",
-    tags: ["Flutter", "App Development", "App"],
+    tags: ["Augmented Reality", "Tech"],
     createdAt: "20 August 2024",
   },
   {
     id: "6685745afe5eacb1625c6832",
-    title: "Handle notifications in Flutter",
+    title: "The Multiverse: What It Is, Its Benefits, and Its Role.",
     content:
-      "Notifications are one of the most important things on apps today. It allows you to engage and reengage your users but also receive realtime data. Without it most of apps would be completely useless. Notifications are the key of many apps success like Facebook, Twitter, Instagram, WhatsApp, etc. That's how you invite your users to come back to your app and reengage with it. In this article we will see how it works in Flutter for both iOS and Android and how do we handle them with Firebase.",
+      "The multiverse comprises multiple metaverses and is vital in bringing the metaverse to life. With many companies building their virtual worlds, we now have a multiverse that offers new opportunities to users.",
     thumbnail:
-      "https://apparencekit.dev/assets/blog/meta/8/flutter-notifications.png",
+      "https://bigthink.com/wp-content/uploads/2022/02/13-8_Multiverse_Lead.jpg",
     author: "Rashidul Islam",
-    tags: ["Flutter", "Push Notification", "Notification"],
+    tags: ["Augmented Reality", "Tech"],
     createdAt: "20 August 2024",
   },
   {
     id: "66857543fe5eacb1625c689a",
-    title: "Flutter Fetch Data from REST APIs",
+    title: "Choosing Teak Wood Furniture For Modern Home Interior Decor Ideas",
     content:
-      "API stands for Application Programming Interface. It provides a set of rules and protocols for interaction between two computers. In simple words, an API helps you connect and communicate with a system with information so it can process and provide you with what you want. An API is generally made of a BaseURL and an API endpoint. Additionally, an API can have an API key which is a private key to determine access to the API endpoint.",
+      "Interior design using teak wood has gained immense popularity in recent times. Though teak wood is considered the best wood for indoor furnishing. Its elegance is something. That has grabbed attention for the longest time in history. Read this blog to know how you can give your simple home a touch of modernity with unique teak wood interior design ideas.",
     thumbnail:
-      "https://codeforgeek.com/wp-content/uploads/2023/03/flutter-fetching-data-from-rest-api.jpg",
+      "https://images.prismic.io/boskyfurniture/fde82e3c-fdb7-4cbb-a85d-8ac062452e57_Teak+Wood+Furniture+In+Modern+Interior+Design+Ideas+For+Home+Decor.png?auto=compress,format&rect=0,0,1200,600&w=1200&h=600",
     author: "Rashidul Islam",
-    tags: ["Rest Api", "Flutter", "Api"],
+    tags: ["Furniture", "Home Decore", "Interior"],
     createdAt: "18 August 2024",
   },
   {
     id: "6685761afe5eacb1625c68cf",
-    title: "Python Machine Learning",
+    title: "How to Choose the Right Children Furniture",
     content:
-      "In today's data-driven world, experts with machine learning skills are in high demand. A study shows, during 2022-2029, the machine learning (ML) market size is expected to grow from USD 21.17 billion to USD 209.91 billion, showing a CAGR of 38.8%. Whether you're a data scientist, software developer, or business analyst, our Python Machine Learning Course is for you. Join us on this exciting journey and let's unlock the potential of data together!",
-    thumbnail:
-      "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
+      "When you are ready to shop for furniture for your child's room, you will have plenty of options. There are individual beds in a range of sizes along with matching bedroom sets, bunk beds, loft beds, themed beds and cribs for infants to choose from.Safety is a main consideration when you look for furniture for your child's room, as well as durability. Of course, it is always a good idea to measure the room before you shop and plan out the layout of the furniture so your child will have plenty of space in the room.",
+    thumbnail: "https://blog.luxury-italianfurniture.com/hubfs/luxury-bedroom-furniture-colours-trends-interior-ideas-lif.jpg",
     author: "Rashidul Islam",
-    tags: ["Python", "Machine Learning", "AI", "Programming"],
+    tags: ["Furniture", "Home Decore", "Interior", "Bed"],
     createdAt: "15 August 2024",
   },
   {
     id: "6685769cfe5eacb1625c68dd",
-    title: "Python for Data Science, AI",
+    title: "A Buying Guide: Choosing Modern Bedside Table For Bedroom",
     content:
-      "Python is a popular high-level programming language that was first released back in 1991. It is known for its simplicity, readability, and versatility. Python has several features that make writing and understanding programs much easier. There are several reasons why learning Python can be beneficial and they include but are not restricted to its readability and ease of use, versatility, integration and compatibility, rapid development and prototyping, existence of a vibrant and active community of developers, extensive libraries and frameworks, and promising career opportunities. Whether you are a beginner or an experienced programmer, learning Python can enhance your skills, expand your career opportunities, and empower you to solve a wide range of problems efficiently. If all these reasons have made you get started with learning Python, you’d better do that in this IBM-offered course endorsed by www.europe.study.",
+      "Are you willing to reconstruct the visual appeal of your bedroom home decor with some unmatched functionality? 🤔 Well, then you are at the right place. 😃 The unimaginative transformation that you want in your bedroom, starts right from the empty corner beside your bed. Choosing a modern bedside table for bedroom not only uplifts the visual appeal but is also useful. In this blog, we will guide you through the steps to choose the most stylish bedside table for your bedroom. Read on.",
     thumbnail:
-      "https://www.europe.study/images/subjects/data-science/python-for-data-science-ai.jpg",
+      "https://images.prismic.io/boskyfurniture/60e0c800-5a43-44c5-bf33-4497806153bb_How+To+Choose+Modern+Bedside+Table+For+Bedroom.png?auto=compress,format&rect=0,0,1200,600&w=1200&h=600",
     author: "Rashidul Islam",
-    tags: ["Data Science", "Python", "AI"],
+    tags: ["Furniture", "Home Decore", "Interior", "Table"],
     createdAt: "7 August 2024",
   },
   {
     id: "66857717fe5eacb1625c6903",
-    title: "Mastering React Query",
+    title: "Beautiful Dining Room Furniture for Meals with Family and Friends",
     content:
-      "React Query emerges as a JavaScript library that open-handedly equips developers with a powerful arsenal for taming asynchronous data in React applications. It is designed to simplify the process of fetching, caching, updating, and synchronizing data with remote APIs, databases, or other data sources. There is no set data fetching technique or backend technology that React Query is dependent on. It is quite adaptable and works with a variety of data sources, such as REST APIs, GraphQL endpoints, WebSocket connections, and more. As a result of its simplicity of use and performance enhancements, it has been extensively embraced by the React community.",
-    thumbnail:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GorYHog6YBurskMVpfsoKPPvrSm_ZIIiEQ&s",
+      "Whether you have a large separate dining room, a sunny breakfast nook or a portion of a large great room, you can find the right dining room furniture to fit your needs. Start by choosing a stylish dining room set, and then include additional dining room pieces that will enhance your space. From modestly sized round tables to long dining room sets that can accommodate friends and family, you can find the dining room furniture that is right for you. Add servers, china cabinets, credenzas and bars to make life easier - if you have the space. You can find dining room furniture in every style, from traditional and transitional pieces to modern Farmhouse and sleek modern designs.",
+    thumbnail: "https://cdn.sharps.co.uk/media/assets/pages/living_spaces/dining_room/dining-room04.webp",
     author: "Rashidul Islam",
-    tags: ["Web Development", "React.js", "React Query"],
+    tags: ["Furniture", "Home Decore", "Interior", "Dinning"],
     createdAt: "2 August 2024",
   },
   {
     id: "668577c7fe5eacb1625c6911",
-    title: "Implementing Next.js OAuth",
+    title: "16 Best U Shaped Modern Modular Kitchen Design Ideas [2024]",
     content:
-      "OAuth 2.0, which stands for “Open Authorization 2.0,” is an industry-standard protocol for authorization and authentication. It allows third-party applications to access user data without exposing the user’s credentials. Next.js is a popular React framework for building web applications, and NextAuth.js is an authentication library that can be used with Next.js to implement OAuth2 authentication and other authentication strategies. Here’s a brief overview of how we can set up OAuth2 authentication using NextAuth.js in a Next.js application.",
-    thumbnail: "https://miro.medium.com/v2/resize:fit:1358/0*AzWEC51CY-665uZ-",
+      "The kitchen is the heart of every home, and with modern lifestyles, it has become more than just a place to cook. It’s a place where families and friends gather to share meals and good times. With the rise in popularity of modular kitchens, the U-shaped layout has become a popular choice for its functionality and space-saving design said by modular kitchen manufacturers in Kolkata. The U-shaped kitchen is a versatile design that allows for efficient use of space and easy access to all the necessary areas of the kitchen. This blog will explore 16 of the best U-shaped best modular kitchen in Kolkata and ideas to inspire you to create your dream kitchen. Whether you're renovating an old kitchen or building a new one, these U-Shaped kitchen renovation ideas will help you make the most of your space while incorporating modern style and functionality.",
+    thumbnail:
+      "https://images.prismic.io/boskyfurniture/00802b3c-680d-429f-a84f-78f2229b1dbf_16+Best+U+shaped+modern+modular+kitchen+design+Ideas%5B2023%5D.png?auto=compress,format&rect=0,0,1200,600&w=1200&h=600",
     author: "Rashidul Islam",
-    tags: ["Next.js", "next.js oAuth", "React", "Authentication"],
+    tags: ["Furniture", "Home Decore", "Interior"],
     createdAt: "28 July 2024",
   },
   {
     id: "668578a0fe5eacb1625c6939",
-    title: "Major Stages of Game Development",
+    title: "Furniture that Makes a Major Statement of Style",
     content:
-      "The game development industry is frequently meeting user expectations and requirements with perfection. Now, with the arrival of high-end technologies like Blockchain, NFT, Metaverse, IoT, etc., developers are working on unique concepts. This is maximizing audience engagement and revenue generation quite superbly. Game development is a very creative task where you have to observe essential steps like: 1. Planning 2. Pre-Production 3. Production 4. Testing 5. Pre-Launch 6. Launch 7. Post-Launch",
+      "Go big is a good idea when it comes to styling your home. Oversized furniture options can contribute to that wow factor when you redecorate. From sectionals to display cabinets and entertainment units, large statement furniture can contribute to the look you want and serve the purpose you need. It is no secret that placing a large sectional sofa in your living room or great room is the perfect solution if you have a large family and many visitors. Look for sectionals in every material, from durable leather to performance fabrics that withstand use. Choose the pieces you need to fit your space.",
     thumbnail:
-      "https://media.licdn.com/dms/image/D5612AQHOaF1xcIonZA/article-cover_image-shrink_720_1280/0/1677672612275?e=2147483647&v=beta&t=YSGG24_hSYMcDmn7QyKR4LTUInhaXOrdYJc7N1lVmL4",
+      "https://cdn-jdeil.nitrocdn.com/lGjOWHCsMSZzhWiAYLOVMoZUqAiPeEcw/assets/images/optimized/rev-15d3e69/www.alankaram.in/wp-content/uploads/2022/12/A7402720-2048x1365-1.jpg",
     author: "Rashidul Islam",
-    tags: ["Game Development", "Game", "Java"],
+    tags: ["Furniture", "Home Decore", "Interior", "Sofa"],
     createdAt: "16 July 2024",
   },
 ];

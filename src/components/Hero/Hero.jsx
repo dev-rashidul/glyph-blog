@@ -6,7 +6,7 @@ const Hero = () => {
           <h2 className="text-3xl lg:text-5xl font-lexend font-bold">
             Glyph Platforms Blog
           </h2>
-          <p className="text-base text-gray-200 pt-3">
+          <p className="text-base text-neutral-900 pt-3">
             Tech Trends, Insights, and Innovations
           </p>
         </div>
